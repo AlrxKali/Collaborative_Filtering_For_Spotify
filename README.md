@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AlrxKali/AB_testing_Mobile_game">
+  <a href="#">
     <img src="img/LogoSample_ByTailorBrands (1).jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -312,7 +312,7 @@ There is an explicit rating in which we ask the users to provide ratings so we c
 
 <span>
 <p align="center">
-  <a href="https://github.com/AlrxKali/AB_testing_Mobile_game">
+  <a href="#">
     <img src="img/rating.jpg" alt="rating" width="250" height="250" align="center">
   </a>
 </span>
