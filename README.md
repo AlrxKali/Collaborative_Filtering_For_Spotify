@@ -1,4 +1,4 @@
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][https://github.com/AlrxKali/Collaborative_Filtering_For_Spotify/blob/master/LICENSE.txt]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
